@@ -1,0 +1,12 @@
+C:\Users\tamara.khachatryan\source\repos\Lesson 6\Homework_2\bin\Debug\netcoreapp3.1\Homework_2.exe
+C:\Users\tamara.khachatryan\source\repos\Lesson 6\Homework_2\bin\Debug\netcoreapp3.1\Homework_2.deps.json
+C:\Users\tamara.khachatryan\source\repos\Lesson 6\Homework_2\bin\Debug\netcoreapp3.1\Homework_2.runtimeconfig.json
+C:\Users\tamara.khachatryan\source\repos\Lesson 6\Homework_2\bin\Debug\netcoreapp3.1\Homework_2.runtimeconfig.dev.json
+C:\Users\tamara.khachatryan\source\repos\Lesson 6\Homework_2\bin\Debug\netcoreapp3.1\Homework_2.dll
+C:\Users\tamara.khachatryan\source\repos\Lesson 6\Homework_2\bin\Debug\netcoreapp3.1\Homework_2.pdb
+C:\Users\tamara.khachatryan\source\repos\Lesson 6\Homework_2\obj\Debug\netcoreapp3.1\Homework_2.AssemblyInfoInputs.cache
+C:\Users\tamara.khachatryan\source\repos\Lesson 6\Homework_2\obj\Debug\netcoreapp3.1\Homework_2.AssemblyInfo.cs
+C:\Users\tamara.khachatryan\source\repos\Lesson 6\Homework_2\obj\Debug\netcoreapp3.1\Homework_2.csproj.CoreCompileInputs.cache
+C:\Users\tamara.khachatryan\source\repos\Lesson 6\Homework_2\obj\Debug\netcoreapp3.1\Homework_2.dll
+C:\Users\tamara.khachatryan\source\repos\Lesson 6\Homework_2\obj\Debug\netcoreapp3.1\Homework_2.pdb
+C:\Users\tamara.khachatryan\source\repos\Lesson 6\Homework_2\obj\Debug\netcoreapp3.1\Homework_2.genruntimeconfig.cache
